@@ -4,5 +4,6 @@
 <details>
 <summary>Github stats</summary>
 <br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Runion1337&show_icons=true&theme=radical)](https://github.com/Runion1337)
+<!--[![Github stats](https://github-readme-stats.vercel.app/api?username=Runion1337&show_icons=true&theme=radical)](https://github.com/Runion1337)-->
+<img src="https://github-readme-stats.vercel.app/api?username=Runion1337&show_icons=true&theme=radical">
 </details>
